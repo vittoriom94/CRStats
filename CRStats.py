@@ -179,7 +179,7 @@ def create_footer():
 
 if __name__ == "__main__":
 
-  # get_data_and_save()
+  get_data_and_save()
   convert_data_to_html()
 
 
