@@ -1,0 +1,28 @@
+
+.empty{
+	width: 20px;
+
+}
+
+.crtable  {
+	border: 1px solid gray;
+	border-collapse:collapse;
+	font-family: "arial";
+
+}
+
+tr {
+	border: 1px solid gray;
+	border-collapse:collapse;
+	
+}
+
+td {
+	border: 1px solid gray;
+	border-collapse:collapse;
+	padding-right: 15px;
+	padding-top: 5px
+}
+.Levels{
+	font-weight:bold;
+}
