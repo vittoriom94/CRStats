@@ -169,7 +169,7 @@ def format_level(level):
   return string
 
 def get_difference(old, new):
-  diff = old-new
+  diff = new-old
   return str(diff)+"%"
 
 def create_footer():
